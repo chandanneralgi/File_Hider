@@ -1,0 +1,10 @@
+File Hider JAVA Project: (Learn Encreption, OTP and Email Authentication)
+
+Link: https://youtu.be/_31XdRjJ4pM
+
+DAO : Data Access Object
+Project is divided based on MVC pattern:
+MVC : Model View Controller
+pom : project object modele
+
+BufferedReader : to read the file faster and easy
